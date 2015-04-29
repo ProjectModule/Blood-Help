@@ -1,0 +1,40 @@
+{
+  "ProjectName": "Blood help",
+  "ProjectGuid": "3f7e4c01-4a65-40ed-819f-8afd1225c52f",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.Bloodhelp",
+  "DisplayName": "Blood help",
+  "Author": "",
+  "Description": "",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.5.0",
+  "AndroidPermissions": [],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{cf188c60-eaa1-4c84-a6a5-9fc394235733}",
+  "WP8ProductID": "{5b88e50f-349f-4c1b-8495-7b8ed3b112b1}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.Bloodhelp",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
